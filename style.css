@@ -1,6 +1,6 @@
 body {background-color: rgb(74, 81, 99);}
 @media screen and (max-width:500px) {
-    
+    body {background-color: aqua;}
 }
 .p1 {text-align: center;
     font-size: 300%;
